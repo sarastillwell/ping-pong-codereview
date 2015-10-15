@@ -10,7 +10,7 @@ This is a page that let's you play ping pong!
 The rules are as follow: for multiples of three, the page prints "ping" instead of the number, and for multiples of five, the page prints "pong". For numbers that are multiples of three and five, the page prints "ping-pong".
 ## Setup
 
-sarastillwell.github.io/ping-pong-test2
+sarastillwell.github.io/ping-pong-codereview
 
 
 ## Technologies Used
